@@ -1,11 +1,11 @@
-# Social Media API
-## _API for a social network web application._
+# Book Search Engine
+## _A powerfull engine to search your books._
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Command line app that helps you to control of your employees.
-- Register or Delete users.
-- Interact with friends, sharing thoughts.
+Deployed app to search books and save them.
+- Register or sign in in your account.
+- Search books as many as you want.
 
 ## Content
 - [Features](#Features)
@@ -18,10 +18,10 @@ Command line app that helps you to control of your employees.
 
 ## Features
 
-- Add, delete or update users.
-- Add or remove friends.
-- Share thoughts, update them and react.
-- Create a friend list
+- Register yourself or sign in.
+- Search books, it displays 10 results.
+- Save them and look them in Saved books.
+- Delete a book or your list.
 
 [Content](#Content)
 
